@@ -25,7 +25,7 @@ fun AppNavigation() {
 
         // La aplicación comienza en Home.
         startDestination = Screen.Home.route
-    ) {configurar grafo de navegación y rutas con Screen sealed class
+    ) {
 
         // -------------------------
         // PANTALLA HOME
